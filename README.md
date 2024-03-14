@@ -1,3 +1,13 @@
+# CDN
+
+Statically
+- https://cdn.statically.io/gh/co-w-io/cryptocurrency-icons/master/png/64/btc.png
+- https://cdn.statically.io/gh/co-w-io/cryptocurrency-icons/master/png/64/{{symbol}}.png
+
+JSDelivr
+- https://cdn.jsdelivr.net/gh/co-w-io/cryptocurrency-icons@master/png/64/btc.png
+- https://cdn.jsdelivr.net/gh/co-w-io/cryptocurrency-icons@master/png/64/{{symbol}}.png
+
 # cryptocurrency-icons
 
 To install dependencies:
