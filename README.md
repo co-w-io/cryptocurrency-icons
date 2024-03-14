@@ -175,5 +175,7 @@ Contributions to improve the script or documentation are welcome. Please feel fr
 ---
 
 Raw size: 8.7 Mb
+
 Optimized: 6.3 Mb
+
 Reduce: 32%
