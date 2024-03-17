@@ -1,4 +1,4 @@
-# CDN
+# Cryptocurrency Icons CDN
 
 ### Statically
 - https://cdn.statically.io/gh/co-w-io/cryptocurrency-icons/master/png/64/btc.png
